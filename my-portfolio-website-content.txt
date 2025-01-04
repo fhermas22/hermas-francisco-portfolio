@@ -1,0 +1,185 @@
+=======Section Accueil=======
+
+Salut, je suis Hermas
+
+Programmeur Informatique & Technicien Informatique
+
+Je conçois et propose des solutions numériques modernes et adaptées, spécialisé dans le Développement Web front-end et back-end, Maintenance Informatique & Mobile, Récupération de Données, pour répondre aux besoins de mes clients.
+
+
+=======Section À Propos=======
+
+Je suis Hermas Francisco
+
+Un Programmeur Informatique (en formation) basé au Bénin
+
+Actuellement en apprentissage dans le domaine de la Programmation Informatique, j’ai récemment acquis des compétences en Développement Web Full-Stack(front-end et back-end). Avec une solide base en création de sites web dynamiques et réactifs, je suis également Technicien en Maintenance Informatique et spécialiste de la Récupération de Données. En parallèle, je suis actif dans le E-commerce, où je vends des produits électroniques grand public et informatiques en ligne. Je suis passionné par l’apprentissage continu et déterminé à élargir mes compétences au fil de ma formation.
+
+
+=======Section Compétences=======
+
+Formation & Compétences
+-----------------------
+
+Professionnel polyvalent en informatique, je maintiens mes compétences à jour par une formation continue en Programmation Informatique tout en enrichissant mon expérience technique sur le terrain.
+
+Formation
+---------
+
+2024-Présent
+Formation Programmation Informatique : Module Développement Web (en cours) - Institut des Métiers du Numériques (IMeN)
+2023-2024
+Diplôme en Maintenance Informatique & GSM - Centre TECHNO TEKKON
+2023-(fin)2023
+Formation en Art Oratoire, Art de la Vente et Rédaction Web - AFRI01DIGITAL
+2021-2023
+Parcours Universitaire en Système Informatique et Logiciel - École Supérieur le Faucon (ESF)
+
+Compétences techniques
+-----------------------
+- Développement Web Full-Stack (HTML, CSS, JavaScript, PHP, MySQL, bases en frameworks)
+- Maintenance Informatique et GSM
+- Récupération de données sur supports de stockage
+- Vente en ligne de produits électroniques et informatiques
+
+Expériences
+------------
+
+Développeur Web Junior (en Formation)
+Temps Plein | Auto-apprentissage et projets académiques
+2024 - Présent
+HERNOTIX Tech. | IMeN
+Création de projets web pour mettre en pratique mes apprentissages en développement Front-End et Back-End.
+
+Technicien en Chef ~ Resp. Service Client
+Temps Partiel | Freelance
+2023 - Présent
+HERNOTIX Repair Services.
+Réparation, maintenance et optimisation de matériel informatique et téléphonique. Spécialisé en récupération de données et en solutions sur mesure.
+
+Responsable du Service Marketing ~ Resp. Stock ~ Resp. Service Client
+Temps Partiel | Freelance
+2023 - Présent
+HERNOTIX Shop.
+Vente en ligne de produits électroniques grand public et informatiques via des plateformes e-commerce et réseaux sociaux. Service client et gestion des stocks. Gestion de publicités ciblées Facebook Ads.
+
+
+=======Section Services=======
+
+1.Développement Web
+------------------
+
+Le développement web consiste à créer des sites et applications web sur mesure, adaptés à vos besoins spécifiques. Que ce soit pour présenter votre entreprise, vendre en ligne ou offrir des services interactifs, je développe des solutions web modernes et conviviales.
+
+Services proposés :
+- Sites web responsifs
+- Applications web personnalisées
+- Intégration de fonctionnalités spécifiques
+- Maintenance et mises à jour
+
+2.Maintenance Informatique Complète
+---------------------------------
+
+La maintenance informatique englobe l'ensemble des interventions nécessaires pour garantir le bon fonctionnement de vos équipements informatiques. De l'installation à la réparation, en passant par l'optimisation, je veille à la santé et aux performances de vos ordinateurs.
+
+Services proposés :
+- Installation de systèmes d'exploitation (Windows, Linux)
+- Installation et Configuration de logiciels professionnels
+- Optimisation des performances
+- Protection antivirus
+- Entretien préventif
+- Réparation matérielle et logicielle
+- Partitionnement et optimisation de disques
+- Récupération de données sur supports de stockage (disques durs, clés USB, cartes mémoire) avec 60-80% de réussite
+- Réparation de supports de stockage endommagés (côté logiciel)
+
+3.Services Mobiles
+-----------------
+
+Les services mobiles couvrent tous les aspects de la maintenance et réparation de vos smartphones et tablettes. De la réparation d'écran à la récupération après dégât des eaux, j'assure une prise en charge complète de vos appareils mobiles pour leur donner une seconde vie.
+
+Services proposés :
+- Diagnostic et réparation de smartphones/tablettes
+- Remplacement de composants (écran, batterie, etc.)
+- Traitement des dégâts d'eau (40-80% de réussite)
+- Configuration et optimisation de vos smartphones
+- Installation d'applications PRO
+- Installation de jeux Premium
+- Protection et sécurité mobile (Antivirus)
+- Formation et assistance utilisateur
+
+4.E-Commerce
+----------------------
+
+En tant que e-commerçant spécialisé dans l'électronique grand public et l'informatique, je propose une sélection de produits de qualité accompagnée d'un service conseil personnalisé pour vous guider dans vos achats technologiques.
+
+Services proposés :
+- Vente de produits électroniques
+- Équipements informatiques
+- Accessoires mobiles
+- Importation de tout type de produit depuis la Chine vers le Bénin
+- Conseil personnalisé à l'achat
+- Service après-vente
+- Garantie produits
+- Assistance technique
+
+5.Services Spécialisés
+---------------------
+
+Les services spécialisés regroupent des prestations complémentaires essentielles pour répondre à des besoins spécifiques dans d'autres domaines. Je vous accompagne avec des solutions adaptées à vos exigences particulières.
+
+Services proposés :
+- Création graphique simple (Pseudo-Logos & Images Illustratives Personnaliées)
+- Gestion efficace de vos Publicités Facebook pour booster vos ventes
+- Mini-Formations dans les sous-domaines de la Maintenance Informatique (à la demande)
+- Achat de Livres & Guides électroniques à moindre coût
+- Musiques Esthétiques Libre-de-Droits pour vos Vidéos et pour vous Relaxer
+
+
+=======Section Portfolio=======
+
+Découvrez mes premières réalisations dans le domaine du Développement Web et des projets divers en maintenance informatique. Mon portfolio évoluera à mesure que je progresse dans ma formation et ma carrière.
+
+
+=======Section Témoignages Clients=======
+
+1.
+“J’ai eu la chance de bénéficier des services de Hermas pour récupérer mes données sur un disque dur que je pensais irréparable. Grâce à son expertise, j’ai tout récupéré sans aucun souci. De plus, sa formation en Installation de Systèmes d’Exploitation a transformé ma façon de travailler : non seulement je m’en sors désormais seul, mais j’ai aussi pu former d’autres personnes à mon tour. Un véritable atout pour avancer ! 
+Merci beaucoup à toi.”
+
+- “Hermas m'a non seulement sauvé la mise en récupérant mes données, mais il m'a aussi ouvert les portes d'un nouveau monde en me formant à l'Installation de Systèmes d’Exploitation. Je suis désormais totalement autonome dans la gestion de mes outils informatiques.”
+
+- “Grâce à Hermas, j'ai non seulement récupéré toutes mes données précieuses d'un disque dur endommagé, mais j'ai aussi acquis de solides compétences en installation de systèmes d'exploitation. Un véritable gain de temps et d'autonomie”
+
+Distel Assankpon
+
+Expert en Rédaction, Écrivain et Formateur de la suite Microsoft Office 
+
+2.
+“Belle collaboration avec Mr Hermas, surtout sur le projet de valorisation des capacités managériales de ma structure immobilière (KBC). Cela s'est soldé par une belle visibilité et m'a permis de booster autrement mes activités.”
+
+Amos Kolade HOUENOU
+
+Promoteur de Kola Business Center (KBC)
+
+3.
+“Je suis très satisfait de mon achat d'une Clé USB 4-en-1 OTG chez vous, un gadget polyvalent et stylé, très utile pour mes travaux. J'apprécie beaucoup votre professionnalisme lors des échanges avec vos clients. Merci.”
+
+Fréjus D.
+
+Designer Graphique
+
+
+=======Section Contact=======
+
++229 01-69-35-38-60
+
+franciscohermas@gmail.com
+
+Abomey-Calavi, Bénin
+
+Je suis toujours disponible pour discuter de projets innovants ou d’opportunités de collaboration.
+
+=======Pied de page=======
+
+© 2024 - by Hermas Francisco (HERNOTIX Tech). Tous droits réservés.
