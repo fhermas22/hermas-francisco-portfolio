@@ -65,6 +65,10 @@
     font-family: 'Poppins', sans-serif;
 }
 
+html, body {
+    overflow-x: hidden;
+}
+
 html {
     scroll-behavior: smooth;
 }
@@ -1344,5 +1348,47 @@ footer a {
 
     .contact-card .contact-btn .btn {
         font-size: 0.8rem;
+    }
+}
+
+/*=======Media query max-width 375px=======*/
+@media screen and (max-width: 375px) {
+    /*=======Common styles for all sections=======*/
+    .section-title-02 {
+        transform: translateY(-50px);
+    }
+}
+
+/*=======Media query max-width 320px=======*/
+@media screen and (max-width: 320px) {
+    /*=======Common styles for all sections=======*/
+    .section-title-01 {
+        font-size: 2.3em;
+    }
+
+    .section-title-02 {
+        transform: translateY(-45px);
+    }
+
+    .nav-bar, .home-container, .section {
+        padding: 30px 12px;
+    }
+
+    .home-container .home-img img {
+        width: 75%;
+    }
+
+    .section, .sub-section {
+        max-width: 100%; 
+    }
+
+    /*=======Skills section=======*/
+    .skills-info h4 label {
+        font-size: var(--small-font-size);
+    }
+
+    /*=======Footer=======*/
+    .footer-container .follow a {
+        margin: 15px;
     }
 }
