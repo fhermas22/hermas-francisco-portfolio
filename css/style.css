@@ -1363,6 +1363,24 @@ footer a {
     }
 }
 
+/*=======Media query max-width 345px=======*/
+@media screen and (max-width: 345px) {
+    /*=======Common styles for all sections=======*/
+    .section-title-01 {
+        font-size: 2.3em;
+    }
+
+    .section-title-02 {
+        font-size: 1.8em;
+        transform: translateY(-50px);
+    }
+
+    /*=======Skills section=======*/
+    .skills-info h4 label {
+        font-size: var(--small-font-size);
+    }
+}
+
 /*=======Media query max-width 320px=======*/
 @media screen and (max-width: 320px) {
     /*=======Common styles for all sections=======*/
@@ -1380,11 +1398,6 @@ footer a {
 
     .section, .sub-section {
         max-width: 100%; 
-    }
-
-    /*=======Skills section=======*/
-    .skills-info h4 label {
-        font-size: var(--small-font-size);
     }
 
     /*=======Footer=======*/
