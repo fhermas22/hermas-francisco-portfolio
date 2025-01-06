@@ -866,7 +866,7 @@ header.sticky .nav-bar {
 
 .get-in-touch .contact-card {
     position: relative;
-    width: 90%;
+    width: 100%;
     background: var(--card-bg-color);
     box-shadow: var(--box-shadow);
     padding: 50px;
@@ -1118,6 +1118,16 @@ footer a {
 .footer-container .follow a {
     font-size: 1.5em;
     margin: 20px;
+}
+
+#start-hr {
+    width: 100%;
+    border-right: 3px solid rgba(255, 255, 255, 0.1);
+}
+
+#end-hr {
+    width: 100%;
+    border-left: 3px solid rgba(255, 255, 255, 0.1);
 }
 
 .footer-copyright p {
