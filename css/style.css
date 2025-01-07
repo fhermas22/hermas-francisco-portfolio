@@ -826,7 +826,7 @@ header.sticky .nav-bar {
     background: var(--modal-bg-color);
     max-width: 600px;
     margin: 20px;
-    padding: 40px;
+    padding: 30px;
     border-radius: 10px;
     box-shadow: var(--box-shadow);
     transform: translateY(-50px);
@@ -851,9 +851,41 @@ header.sticky .nav-bar {
 
 .portfolio-model-body img {
     width: 100%;
-    margin: 20px 0;
+    margin: 15px 0;
     border-radius: 10px;
 }
+
+.portfolio-model-body .visit-project-btns {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.portfolio-model-body .visit-btn {
+    background: var(--second-color);
+    color: #fff;
+    font-size: var(--small-font-size);
+    font-weight: 500;
+    padding: 10px;
+    letter-spacing: 1px;
+    border-radius: 10px;
+}
+
+.portfolio-model-body .visit-btn:hover {
+    background: var(--hover-color);
+}
+
+.portfolio-model-body .github-repo-btn {
+    color: var(--second-color);
+    font-weight: 500;
+    font-size: 2.4em;
+    margin-left: 15px;
+}
+
+.portfolio-model-body .github-repo-btn:hover {
+    color: var(--hover-color);
+}
+
 
 /*=======Get-in-touct=======*/
 .get-in-touch {
