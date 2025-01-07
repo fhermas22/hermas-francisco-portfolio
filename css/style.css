@@ -426,7 +426,7 @@ header.sticky .nav-bar {
 
 .about-info .professional-list .list-item h3 {
     font-size: 2.5em;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 .about-info .professional-list .list-item span {
@@ -628,7 +628,7 @@ header.sticky .nav-bar {
 }
 
 .services-description h3 {
-    font-size: 2em;
+    font-size: 1.9em;
     margin-bottom: 50px;
 }
 
@@ -656,7 +656,7 @@ header.sticky .nav-bar {
 
 .service-card h3 {
     font-size: 1.5em;
-    font-weight: 700;
+    font-weight: 600;
     line-height: 30px;
     margin-bottom: 20px;
 }
@@ -1006,7 +1006,7 @@ header.sticky .nav-bar {
 
 .contact-left h2 {
     font-size: 2.1em;
-    font-weight: 800;
+    font-weight: 700;
     margin-bottom: 40px;
 }
 
