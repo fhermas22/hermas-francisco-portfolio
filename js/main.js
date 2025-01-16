@@ -158,3 +158,5 @@ ScrollReveal().reveal('.about .professional-list li', {delay: 500, origin: 'righ
 ScrollReveal().reveal('.skills-description, .services-description, .contact-card, .client-swiper, .contact-left h2', {delay: 700, origin: 'left'});
 ScrollReveal().reveal('.experience-card, .service-card, .education, .portfolio .img-card', {delay: 800, origin: 'bottom', interval: 200});
 ScrollReveal().reveal('footer .group', {delay: 500, origin: 'top', interval: 200});
+
+// Script CallBell API
