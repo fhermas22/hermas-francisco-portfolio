@@ -159,4 +159,45 @@ ScrollReveal().reveal('.skills-description, .services-description, .contact-card
 ScrollReveal().reveal('.experience-card, .service-card, .education, .portfolio .img-card', {delay: 800, origin: 'bottom', interval: 200});
 ScrollReveal().reveal('footer .group', {delay: 500, origin: 'top', interval: 200});
 
-// Script CallBell API
+// Async Callbell Code
+if (!window.callbellSettings) {
+  window.callbellSettings = {};
+}
+window.callbellSettings["token"] = "sY1qHzsUewH4gVuzG52QLaK5";
+
+(function () {
+  var w = window;
+  var ic = w.callbell;
+  if (typeof ic === "function") {
+    ic("reattach_activator");
+    ic("update", callbellSettings);
+  } else {
+    var d = document;
+    class i {
+          constructor() {
+              i.c(arguments);
+          }
+          static c(args) {
+              i.q.push(args);
+          }
+      }
+    i.q = [];
+    w.Callbell = i;
+    var l = function () {
+      var s = d.createElement("script");
+      s.type = "text/javascript";
+      s.async = true;
+      s.src =
+        "https://dash.callbell.eu/include/" +
+        window.callbellSettings.token +
+        ".js";
+      var x = d.getElementsByTagName("script")[0];
+      x.parentNode.insertBefore(s, x);
+    };
+    if (w.attachEvent) {
+      w.attachEvent("onload", l);
+    } else {
+      w.addEventListener("load", l, false);
+    }
+  }
+})();
