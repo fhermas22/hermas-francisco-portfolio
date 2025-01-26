@@ -552,11 +552,11 @@ header.sticky .nav-bar {
 }
 
 .bar .php:before {
-    width: 60%;
+    width: 85%;
 }
 
 .bar .mysql:before {
-    width: 55%;
+    width: 80%;
 }
 
 .bar .computer-maintenance:before {
@@ -678,6 +678,7 @@ header.sticky .nav-bar {
 .service-modal {
     z-index: 999999;
     position: fixed;
+    overflow-x: scroll;
     width: 100%;
     height: 100vh;
     top: 0;
@@ -805,6 +806,7 @@ header.sticky .nav-bar {
 .portfolio-model {
     z-index: 999999;
     position: fixed;
+    overflow-x: scroll;
     width: 100%;
     height: 100vh;
     top: 0;
@@ -824,7 +826,7 @@ header.sticky .nav-bar {
 .portfolio-model-body {
     position: relative;
     background: var(--modal-bg-color);
-    max-width: 600px;
+    max-width: 465px;
     margin: 20px;
     padding: 30px;
     border-radius: 10px;
@@ -1391,41 +1393,77 @@ footer a {
     }
 }
 
+/*=======Media query max-width 425px=======*/
+@media screen and (max-width: 425px) {
+    /*=======Common styles for all sections=======*/
+    .section-title-01 {
+        font-size: 2.5em;
+    }
+
+    .section-title-02 {
+        transform: translateY(-55px);
+    }
+
+    /*=======Our Clients=======*/
+    .swiper-button-next, .swiper-button-prev {
+        visibility: hidden;
+    }
+
+    /*=======Footer=======*/
+    .footer-container .follow a {
+        margin: 18px;
+    }
+}
+
 /*=======Media query max-width 375px=======*/
 @media screen and (max-width: 375px) {
     /*=======Common styles for all sections=======*/
     .section-title-01 {
-        font-size: 2.3em;
+        font-size: 2.2em;
     }
 
     .section-title-02 {
-        transform: translateY(-50px);
-    }
-}
-
-/*=======Media query max-width 345px=======*/
-@media screen and (max-width: 345px) {
-    /*=======Common styles for all sections=======*/
-    .section-title-01 {
-        font-size: 2.3em;
+        font-size: 1.7em;
+        transform: translateY(-55px);
     }
 
-    .section-title-02 {
-        font-size: 1.8em;
-        transform: translateY(-50px);
+    /*=======Home section=======*/
+    .home-container .info h2 {
+        font-size: 3.5em;
+        font-weight: 600;
     }
 
     /*=======Skills section=======*/
+    .skills-description h3 {
+        font-size: 1.8em;
+    }
+
     .skills-info h4 label {
         font-size: var(--small-font-size);
+    }
+
+    /*=======Services section=======*/
+    .services-description h3 {
+        font-size: 1.6em;
     }
 }
 
 /*=======Media query max-width 320px=======*/
 @media screen and (max-width: 320px) {
     /*=======Common styles for all sections=======*/
+    .section-title-01 {
+        font-size: 2.1em;
+    }
+
     .section-title-02 {
+        font-size: 1.5em;
         transform: translateY(-45px);
+    }
+
+    /*=======Home section=======*/
+    .home-container .info h2 {
+        font-size: 2.8em;
+        font-weight: 600;
     }
 
     .nav-bar, .home-container, .section {
@@ -1438,6 +1476,16 @@ footer a {
 
     .section, .sub-section {
         max-width: 100%; 
+    }
+
+    /*=======Skills section=======*/
+    .skills-description h3 {
+        font-size: 1.5em;
+    }
+
+    /*=======Services section=======*/
+    .services-description h3 {
+        font-size: 1.6em;
     }
 
     /*=======Footer=======*/
