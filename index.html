@@ -116,7 +116,7 @@
                             <span>Projets <br>Réussis</span>
                         </li>
                     </ul>
-                    <a href="" class="btn">Télécharger mon CV <i class="fas fa-download"></i></a>
+                    <a href="documents/CV_Hermas-Francisco.pdf" class="btn" download>Télécharger mon CV <i class="fas fa-download"></i></a>
                 </div>
             </div>
         </div>
@@ -1097,17 +1097,22 @@
                         Je suis toujours disponible pour discuter de <!-- <br> -->
                         <span>projets innovants ou d’opportunités de collaboration</span>.
                     </p>
-                    <form action="" class="contact-form">
+                    <form action="https://formspree.io/f/movwryga" method="POST" class="contact-form">
                         <div class="first-row">
-                            <input type="text" placeholder="Votre Nom et Prénom">
+                            <input type="text" name="name" placeholder="Votre Nom et Prénom" required>
                         </div>
                         <div class="second-row">
-                            <input type="email" name="" id="" placeholder="Votre Adresse Email">
-                            <input type="text" placeholder="Objet">
+                            <input type="email" name="email" placeholder="Votre Adresse Email" required>
+                            <input type="text" name="subject" placeholder="Objet">
                         </div>
                         <div class="third-row">
-                            <textarea name="message" id="" rows="7" placeholder="Écrivez votre Message ici"></textarea>
+                            <textarea name="message" rows="7" placeholder="Écrivez votre message ici" required></textarea>
                         </div>
+                        <!-- Start Anti-Spam -->
+                        <input type="text" name="_honey" style="display:none">
+                        <input type="hidden" name="_captcha" value="true">
+                        <input type="hidden" name="_subject" value="Nouveau message depuis le portfolio Hermas Francisco">
+                        <!-- End Anti-Spam -->
                         <button class="btn" type="submit">Envoyer le Message 
                             <i class="fas fa-paper-plane"></i>
                         </button>
