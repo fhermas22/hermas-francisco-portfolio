@@ -187,6 +187,11 @@ ScrollReveal().reveal(
   ".skills-description, .services-description, .contact-card, .client-swiper, .contact-left h2",
   { delay: 700, origin: "left" }
 );
+ScrollReveal().reveal(".why-me-card", {
+  delay: 700,
+  origin: "bottom",
+  interval: 200
+});
 ScrollReveal().reveal(
   ".experience-card, .service-card, .education, .portfolio .img-card",
   { delay: 800, origin: "bottom", interval: 200 }

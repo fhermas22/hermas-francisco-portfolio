@@ -539,6 +539,10 @@ header.sticky .nav-bar {
     border-radius: 2px;
 }
 
+.bar .dart:before {
+    width: 90%;
+}
+
 .bar .html:before {
     width: 90%;
 }
@@ -559,7 +563,7 @@ header.sticky .nav-bar {
     width: 80%;
 }
 
-.bar .computer-maintenance:before {
+/* .bar .computer-maintenance:before {
     width: 95%;
 }
 
@@ -581,7 +585,21 @@ header.sticky .nav-bar {
 
 .bar .graphic-design:before {
     width: 45%;
+} */
+
+
+.bar .flutter:before {
+    width: 90%;
 }
+
+.bar .laravel:before {
+    width: 80%;
+}
+
+.bar .tailwindcss:before {
+    width: 70%;
+}
+
 
 .experience-card {
     background: var(--card-bg-color);
@@ -643,7 +661,7 @@ header.sticky .nav-bar {
 .service-card {
     background: var(--card-bg-color);
     border-bottom: 3px solid var(--second-color);
-    padding: 50px;
+    padding: 50px 80px 50px 30px;
     border-radius: 6px;
     box-shadow: var(--box-shadow);
 }
@@ -735,6 +753,41 @@ header.sticky .nav-bar {
 
 .service-modal-body ul li i {
     color: var(--second-color);
+}
+
+/*======= Why Me Section =======*/
+.why-me .container .content {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 30px;
+    margin-top: 40px;
+}
+
+.why-me-card {
+    background: var(--card-bg-color);
+    border-bottom: 3px solid var(--second-color);
+    padding: 30px;
+    border-radius: 6px;
+    box-shadow: var(--box-shadow);
+    text-align: center;
+}
+
+.why-me-card i {
+    color: var(--second-color);
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+.why-me-card h3 {
+    font-size: 1.3em;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.why-me-card p {
+    font-size: var(--normal-font-size);
+    color: var(--third-color);
 }
 
 /*=======Portfolio section=======*/
@@ -863,6 +916,12 @@ header.sticky .nav-bar {
     margin-top: 10px;
 }
 
+.portfolio-model-body .visit-project-btns-1 {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
 .portfolio-model-body .visit-btn {
     background: var(--second-color);
     color: #fff;
@@ -888,8 +947,22 @@ header.sticky .nav-bar {
     color: var(--hover-color);
 }
 
+.portfolio-model-body .visit-btn-inactive {
+    background: var(--scroll-thumb-hover-color);
+    color: #fff;
+    font-size: var(--small-font-size);
+    font-weight: 500;
+    padding: 10px;
+    letter-spacing: 1px;
+    border-radius: 10px;
+}
 
-/*=======Get-in-touct=======*/
+.portfolio-model-body .inactiveLink {
+    pointer-events: none;
+    cursor: default;
+ }
+
+/*=======Get-in-touch=======*/
 .get-in-touch {
     margin-top: 70px;
 }
