@@ -32,6 +32,7 @@ Currently pursuing advanced programming training with a focus on backend framewo
 
 ## 📁 Project Structure
 
+```
 ├── index.html # Main HTML file
 ├── css/
 │ ├── style.css # Main stylesheet
@@ -47,6 +48,7 @@ Currently pursuing advanced programming training with a focus on backend framewo
 │ └── favicon-images/ # Favicon files
 └── documents/
 └── CV_Hermas-Francisco.pdf
+```
 
 
 ## 🎨 Color Scheme
