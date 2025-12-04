@@ -500,6 +500,28 @@ header.sticky .nav-bar {
     font-weight: 500;
 }
 
+.edu-list .item .badge-btn {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 8px 15px;
+    background: linear-gradient(135deg, var(--second-color), var(--hover-color));
+    color: #fff;
+    font-size: var(--small-font-size);
+    font-weight: 500;
+    border-radius: 20px;
+    text-decoration: none;
+    transition: .3s ease;
+}
+
+.edu-list .item .badge-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0px 5px 15px rgba(106, 89, 209, 0.3);
+}
+
+.edu-list .item .badge-btn i {
+    margin-right: 5px;
+}
+
 .bar {
     background: var(--card-bg-color);
     box-shadow: var(--box-shadow);
@@ -556,7 +578,7 @@ header.sticky .nav-bar {
 }
 
 .bar .php:before {
-    width: 85%;
+    width: 80%;
 }
 
 .bar .mysql:before {
@@ -589,11 +611,11 @@ header.sticky .nav-bar {
 
 
 .bar .flutter:before {
-    width: 90%;
+    width: 85%;
 }
 
 .bar .laravel:before {
-    width: 80%;
+    width: 75%;
 }
 
 .bar .tailwindcss:before {
