@@ -7,7 +7,7 @@ A modern, responsive personal portfolio website showcasing my skills and project
 I'm Hermas Francisco, a computer programmer based in Benin with over 3 years of experience. I specialize in:
 - **Mobile Development**: Flutter (Android & iOS)
 - **Web Development**: Laravel, TailwindCSS, MySQL
-- **Technologies**: REST APIs, Firebase, Autonomous Agents, AI
+- **Technologies**: REST APIs, Firebase, Autonomous Agents, AI, Debian Linux
 
 Currently pursuing advanced programming training with a focus on backend frameworks at Institut des Métiers du Numérique (IMeN).
 
@@ -105,6 +105,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🎓 Certifications & Achievements
 
+- AWS Cloud Club Captain (2025)
 - AWS Cloud Club Core Team (2025)
 - Professional Training in Computer Programming (2024-Present)
 - University Degree in Software & IT Systems (2021-2023)
@@ -112,7 +113,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📊 Statistics
 
 - **3+** Years of Experience
-- **12+** Successful Projects
+- **14+** Successful Projects
 - **6** Programming Languages
 - **3** Main Frameworks
 
