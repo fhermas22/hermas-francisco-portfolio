@@ -6,7 +6,7 @@ A modern, responsive personal portfolio website showcasing my skills and project
 
 I'm Hermas Francisco, a computer programmer based in Benin with over 3 years of experience. I specialize in:
 - **Mobile Development**: Flutter (Android & iOS)
-- **Web Development**: Laravel, TailwindCSS, MySQL
+- **Web Development**: Laravel, React, TailwindCSS, MySQL
 - **Technologies**: REST APIs, Firebase, Autonomous Agents, AI, Debian Linux
 
 Currently pursuing advanced programming training with a focus on backend frameworks at Institut des Métiers du Numérique (IMeN).
@@ -113,7 +113,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📊 Statistics
 
 - **3+** Years of Experience
-- **14+** Successful Projects
+- **15+** Successful Projects
 - **6** Programming Languages
 - **3** Main Frameworks
 
@@ -127,6 +127,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Last Updated**: December 30, 2025
+**Last Updated**: February 03, 2026
 
 Made with ❤️ by Hermas Francisco

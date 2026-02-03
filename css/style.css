@@ -1267,6 +1267,13 @@ footer a {
     margin-top: 50px;
 }
 
+.hernotix-link {
+    color: #e6e6e6;
+    font-weight: 500;
+    text-decoration: none;
+    transition: color 0.3s ease, text-decoration 0.3s ease;
+}
+
 
 /*=======Media query max-width 1070px=======*/
 @media screen and (max-width: 1070px) {
