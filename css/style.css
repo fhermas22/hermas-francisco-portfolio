@@ -622,6 +622,10 @@ header.sticky .nav-bar {
     width: 70%;
 }
 
+.bar .reactjs:before {
+    width: 65%;
+}
+
 
 .experience-card {
     background: var(--card-bg-color);
