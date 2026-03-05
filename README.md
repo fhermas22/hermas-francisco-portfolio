@@ -6,8 +6,8 @@ A modern, responsive personal portfolio website showcasing my skills and project
 
 I'm Hermas Francisco, a computer programmer based in Benin with over 3 years of experience. I specialize in:
 - **Mobile Development**: Flutter (Android & iOS)
-- **Web Development**: Laravel, React, TailwindCSS, MySQL
-- **Technologies**: REST APIs, Firebase, Autonomous Agents, AI, Debian Linux
+- **Web Development**: Laravel, React, TailwindCSS, MySQL, MongoDB
+- **Technologies**: REST APIs, Firebase, Laravel Reverb, Autonomous Agents, AI, Debian Linux
 
 Currently pursuing advanced programming training with a focus on backend frameworks at Institut des Métiers du Numérique (IMeN).
 
@@ -16,6 +16,7 @@ Currently pursuing advanced programming training with a focus on backend framewo
 - ✅ Fully responsive design (mobile, tablet, desktop)
 - ✅ Light/Dark theme toggle
 - ✅ Smooth scroll navigation
+- ✅ Typing animation for job titles in hero section
 - ✅ Project portfolio with detailed modals
 - ✅ Skills showcase with progress indicators
 - ✅ Experience timeline
@@ -29,27 +30,32 @@ Currently pursuing advanced programming training with a focus on backend framewo
 - **Frameworks**: Swiper.js, ScrollReveal.js
 - **Design**: TailwindCSS, Font Awesome 6.7.2
 - **Fonts**: Poppins (Google Fonts)
+- **Backend Technologies**: Laravel, MongoDB, Laravel Reverb (for real-time features)
 
 ## 📁 Project Structure
 
 ```
-├── index.html # Main HTML file
+├── index.html            # Main HTML file
+├── README.md            # Project documentation
+├── LICENSE              # MIT License
+├── site.webmanifest     # PWA manifest
 ├── css/
-│ ├── style.css # Main stylesheet
-│ ├── fonts.css # Font imports
-│ └── font-awesome-6.7.2/ # Font Awesome icons
+│   ├── style.css        # Main stylesheet
+│   ├── fonts.css        # Font imports
+│   ├── swiper-bundle.min.css
+│   └── font-awesome-6.7.2/  # Font Awesome icons
 ├── js/
-│ ├── main.js # Main JavaScript logic
-│ ├── scrollreveal.js # Scroll reveal library
-│ └── swiper-bundle.min.js # Swiper carousel
+│   ├── main.js          # Main JavaScript logic
+│   ├── scrollreveal.js  # Scroll reveal library
+│   └── swiper-bundle.min.js
 ├── images/
-│ ├── portfolio-images/ # Project screenshots
-│ ├── my-images/ # Personal images
-│ └── favicon-images/ # Favicon files
+│   ├── portfolio-images/    # Project screenshots
+│   ├── my-images/          # Personal images
+│   ├── customers-images/   # Testimonial images
+│   └── favicon-images/     # Favicon files
 └── documents/
-└── CV_Hermas-Francisco.pdf
+    └── CV_Hermas-Francisco.pdf
 ```
-
 
 ## 🎨 Color Scheme
 
@@ -63,7 +69,7 @@ Currently pursuing advanced programming training with a focus on backend framewo
 
 ## 📱 Sections
 
-1. **Home** - Hero section with introduction
+1. **Home** - Hero section with introduction and typing animation
 2. **About** - Personal information and professional stats
 3. **Skills** - Languages, frameworks, and experience
 4. **Services** - Professional services offered
@@ -73,21 +79,39 @@ Currently pursuing advanced programming training with a focus on backend framewo
 
 ## 🔗 Featured Projects
 
+### Latest Projects
+- **Writty** - Real-time chat application (Laravel, React, MongoDB, Laravel Reverb)
+- **Hernotix Tech** - Landing page (React, TailwindCSS)
+- **EduTrack** - Learner tracking system (Laravel 12, Blade, TailwindCSS)
+- **LearnyClass** - Online learning platform (Laravel 12, Blade, TailwindCSS)
 - **Library-API** - REST API for digital library management
 - **CandForm** - Job application submission platform
 - **AutoSocial** - Mini social network with AI agents
+- **MiniStore** - Mobile product showcase app (Flutter)
+- **Netflix Clone** - Streaming app clone (Flutter)
 - **DineReserve** - Restaurant table reservation system
-- **MiniStore** - Mobile product showcase app
-- And more...
 
-## 📞 Contact Information
+## 💻 Getting Started
 
-- **Email**: [franciscohermas@gmail.com](mailto:franciscohermas@gmail.com)
-- **Phone**: +229 01-69-35-38-60
-- **Location**: Abomey-Calavi, Benin
-- **LinkedIn**: [hermas-francisco](https://www.linkedin.com/in/hermas-francisco)
-- **GitHub**: [fhermas22](https://github.com/fhermas22)
-- **Twitter**: [@F_hermas22](https://x.com/F_hermas22)
+To run this portfolio locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/fhermas22/hermas-francisco-portfolio.git
+   ```
+
+2. Open `index.html` in your browser
+
+   Simply double-click the `index.html` file or use a local server:
+   ```bash
+   # Using Python
+   python -m http.server 8000
+   
+   # Using PHP
+   php -S localhost:8000
+   ```
+
+3. Navigate to `http://localhost:8000`
 
 ## 🛠️ Customization
 
@@ -98,6 +122,17 @@ To customize this portfolio for your own use:
 3. Replace images in the `images/` directory
 4. Update project details in the portfolio section
 5. Change contact information and links
+6. Customize the typing animation text in `main.js`
+
+## 📞 Contact Information
+
+- **Email**: [franciscohermas@gmail.com](mailto:franciscohermas@gmail.com)
+- **Phone**: +229 01-69-35-38-60
+- **Location**: Abomey-Calavi, Benin
+- **LinkedIn**: [hermas-francisco](https://www.linkedin.com/in/hermas-francisco)
+- **GitHub**: [fhermas22](https://github.com/fhermas22)
+- **Twitter**: [@F_hermas22](https://x.com/F_hermas22)
+- **WhatsApp**: +229 01-69-35-38-60
 
 ## 📄 License
 
@@ -113,9 +148,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📊 Statistics
 
 - **3+** Years of Experience
-- **15+** Successful Projects
+- **16+** Successful Projects
 - **6** Programming Languages
-- **3** Main Frameworks
+- **4** Main Frameworks (Flutter, Laravel, TailwindCSS, React)
 
 ## 🙏 Acknowledgments
 
@@ -124,9 +159,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Swiper](https://swiperjs.com/) for carousel functionality
 - [ScrollReveal](https://scrollreveal.com/) for scroll animations
 - [Formspree](https://formspree.io/) for form handling
+- [Laravel](https://laravel.com/) for backend development
+- [Flutter](https://flutter.dev/) for mobile development
 
 ---
 
-**Last Updated**: February 03, 2026
+**Last Updated**: March 05, 2026
 
-Made with ❤️ by Hermas Francisco
+Made with ❤️ by Hermas Francisco | [HERNOTIX Tech](https://hernotix-tech-landing.vercel.app)
