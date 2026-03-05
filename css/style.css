@@ -312,6 +312,35 @@ header.sticky .nav-bar {
     }
 }
 
+/*=======Typing Animation=======*/
+.typing-text {
+    color: var(--third-color);
+    font-size: 1.3em;
+    font-weight: 600;
+    line-height: 50px;
+    min-height: 50px;
+}
+
+.typing-effect {
+    display: inline-block;
+}
+
+.cursor {
+    display: inline-block;
+    font-weight: 400;
+    animation: blink 1s infinite;
+    margin-left: 2px;
+}
+
+@keyframes blink {
+    0%, 50% {
+        opacity: 1;
+    }
+    51%, 100% {
+        opacity: 0;
+    }
+}
+
 /*=======Common styles for all sections=======*/
 .flex-center {
     display: flex;

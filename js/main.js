@@ -202,6 +202,52 @@ ScrollReveal().reveal("footer .group", {
   interval: 200,
 });
 
+//======= Typing Animation for Job Titles =======
+document.addEventListener("DOMContentLoaded", function() {
+  const typingElement = document.querySelector('.typing-effect');
+  
+  // Les métiers à afficher en boucle
+  const jobs = ["Développeur Mobile", "Développeur Web"];
+  
+  let jobIndex = 0;
+  let charIndex = 0;
+  let isDeleting = false;
+  let typingSpeed = 100;
+  
+  function type() {
+    const currentJob = jobs[jobIndex];
+    
+    if (isDeleting) {
+      // Effacer les caractères
+      typingElement.textContent = currentJob.substring(0, charIndex - 1);
+      charIndex--;
+      typingSpeed = 50; // Plus rapide pour effacer
+    } else {
+      // Ajouter les caractères
+      typingElement.textContent = currentJob.substring(0, charIndex + 1);
+      charIndex++;
+      typingSpeed = 100; // Vitesse normale pour écrire
+    }
+    
+    // Gérer la transition entre les mots
+    if (!isDeleting && charIndex === currentJob.length) {
+      // Fin d'écriture - attendre avant d'effacer
+      isDeleting = true;
+      typingSpeed = 2000; // Pause à la fin du mot
+    } else if (isDeleting && charIndex === 0) {
+      // Fin d'effacement - passer au mot suivant
+      isDeleting = false;
+      jobIndex = (jobIndex + 1) % jobs.length;
+      typingSpeed = 500; // Pause avant d'écrire le nouveau mot
+    }
+    
+    setTimeout(type, typingSpeed);
+  }
+  
+  // Démarrer l'animation
+  type();
+});
+
 // Async Callbell Code
 // if (!window.callbellSettings) {
 //   window.callbellSettings = {}
