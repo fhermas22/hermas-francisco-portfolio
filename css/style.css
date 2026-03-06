@@ -648,11 +648,11 @@ header.sticky .nav-bar {
 }
 
 .bar .tailwindcss:before {
-    width: 70%;
+    width: 80%;
 }
 
 .bar .reactjs:before {
-    width: 65%;
+    width: 70%;
 }
 
 
