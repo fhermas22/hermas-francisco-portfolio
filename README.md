@@ -1,15 +1,15 @@
-# Hermas Francisco - Portfolio v1
+# Hermas Francisco - Portfolio
 
-A modern, responsive personal portfolio website showcasing my skills and projects as a full-stack developer specializing in mobile and web development.
+A modern, responsive personal portfolio website (in French) showcasing my skills, experiences, services, and 17+ projects as a computer programmer based in Benin, specializing in Mobile Development with Flutter and Full-Stack Web Development with Laravel, React & TailwindCSS.
 
 ## 🎯 About Me
 
-I'm Hermas Francisco, a computer programmer based in Benin with over 3 years of experience. I specialize in:
+I'm Hermas Francisco, a **computer programmer** based in **Benin** with **+3 years of experience**. I specialize in:
 - **Mobile Development**: Flutter (Android & iOS)
-- **Web Development**: Laravel, React, TailwindCSS, MySQL, MongoDB
-- **Technologies**: REST APIs, Firebase, Laravel Reverb, Autonomous Agents, AI, Debian Linux
+- **Web Development**: Laravel (Backend), React & TailwindCSS (Frontend), MySQL
+- **Technologies**: REST APIs, Firebase, Laravel Reverb (real-time), MongoDB
 
-Currently pursuing advanced programming training with a focus on backend frameworks at Institut des Métiers du Numérique (IMeN).
+Currently in **advanced programming training** at **Institut des Métiers du Numérique (IMeN)** focusing on backend frameworks, with active role as **AWS Cloud Club Captain**.
 
 ## ✨ Features
 
@@ -28,7 +28,7 @@ Currently pursuing advanced programming training with a focus on backend framewo
 
 - **Frontend**: HTML5, CSS3, JavaScript
 - **Frameworks**: Swiper.js, ScrollReveal.js
-- **Design**: TailwindCSS, Font Awesome 6.7.2
+- **Design**: CSS, Font Awesome 6.7.2
 - **Fonts**: Poppins (Google Fonts)
 - **Backend Technologies**: Laravel, MongoDB, Laravel Reverb (for real-time features)
 
@@ -77,19 +77,19 @@ Currently pursuing advanced programming training with a focus on backend framewo
 6. **Portfolio** - Showcased projects with detailed descriptions
 7. **Contact** - Contact information and message form
 
-## 🔗 Featured Projects
+## 🔗 Featured Projects (top from portfolio section)
 
-### Latest Projects
-- **Writty** - Real-time chat application (Laravel, React, MongoDB, Laravel Reverb)
-- **Hernotix Tech** - Landing page (React, TailwindCSS)
-- **EduTrack** - Learner tracking system (Laravel 12, Blade, TailwindCSS)
-- **LearnyClass** - Online learning platform (Laravel 12, Blade, TailwindCSS)
-- **Library-API** - REST API for digital library management
-- **CandForm** - Job application submission platform
-- **AutoSocial** - Mini social network with AI agents
-- **MiniStore** - Mobile product showcase app (Flutter)
-- **Netflix Clone** - Streaming app clone (Flutter)
-- **DineReserve** - Restaurant table reservation system
+- **IMeN Clone** - Modern IMeN site clone (React | Tailwind CSS) [Live](https://imen-benin.vercel.app)
+- **Writty** - Real-time chat app (Laravel | React | Tailwind CSS | MongoDB | Laravel Reverb)
+- **Hernotix Tech** - Studio landing page (React JS | Tailwind CSS) [Live](https://hernotix-tech-landing.vercel.app)
+- **EduTrack** - SPA learner tracking (Laravel 12 | Blade | TailwindCSS | JS)
+- **LearnyClass** - Online learning platform frontend (Laravel 12 | Blade | TailwindCSS | JS)
+- **Library-API** - Digital library REST API (Laravel | MySQL)
+- **CandForm** - Job application form (Laravel | TailwindCSS | MySQL)
+- **AutoSocial** - Mini social network POC w/ AI (Laravel | TailwindCSS | MySQL | AI)
+- **MiniStore** - Product catalog app (Flutter | API)
+- **DineReserve** - Restaurant reservation system (Laravel | TailwindCSS | MySQL)
+- ... (full 17 projects showcased on site)
 
 ## 💻 Getting Started
 
@@ -145,11 +145,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Professional Training in Computer Programming (2024-Present)
 - University Degree in Software & IT Systems (2021-2023)
 
-## 📊 Statistics
+## 📊 Statistics (from site)
 
-- **3+** Years of Experience
-- **16+** Successful Projects
-- **6** Programming Languages
+- **+3** Years of Experience
+- **+17** Successful Projects
+- **6** Programming Languages (Dart, HTML/CSS/JS, PHP, MySQL)
 - **4** Main Frameworks (Flutter, Laravel, TailwindCSS, React)
 
 ## 🙏 Acknowledgments
@@ -164,6 +164,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Last Updated**: March 06, 2026
+**Last Updated**: April 13, 2026
 
 Made with ❤️ by Hermas Francisco | [HERNOTIX Tech](https://hernotix-tech-landing.vercel.app)
