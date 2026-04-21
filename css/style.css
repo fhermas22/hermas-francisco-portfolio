@@ -610,9 +610,6 @@ header.sticky .nav-bar {
     width: 80%;
 }
 
-.bar .mysql:before {
-    width: 80%;
-}
 
 /* .bar .computer-maintenance:before {
     width: 95%;
@@ -653,6 +650,15 @@ header.sticky .nav-bar {
 
 .bar .reactjs:before {
     width: 70%;
+}
+
+
+.bar .mysql:before {
+    width: 80%;
+}
+
+.bar .mongodb:before {
+    width: 65%;
 }
 
 
