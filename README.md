@@ -79,11 +79,11 @@ Currently in **advanced programming training** at **Institut des Métiers du Num
 
 ## 🔗 Featured Projects (top from portfolio section)
 
-- **IMeN Clone** - Modern IMeN site clone (React | Tailwind CSS) [Live](https://imen-benin.vercel.app)
-- **Writty** - Real-time chat app (Laravel | React | Tailwind CSS | MongoDB | Laravel Reverb)
-- **Hernotix Tech** - Studio landing page (React JS | Tailwind CSS) [Live](https://hernotix-tech-landing.vercel.app)
-- **EduTrack** - SPA learner tracking (Laravel 12 | Blade | TailwindCSS | JS)
-- **LearnyClass** - Online learning platform frontend (Laravel 12 | Blade | TailwindCSS | JS)
+- **IMeN Clone** - Modern IMeN site clone with React and Tailwind CSS. [Live](https://imen-benin.vercel.app) | [GitHub](https://github.com/fhermas22/imen-clone.git)
+- **Writty** - Real-time chat app (Laravel | React | Tailwind CSS | MongoDB | Laravel Reverb) [GitHub](https://github.com/fhermas22/writty.git)
+- **Hernotix Tech** - Landing page for HERNOTIX Tech studio (React JS | Tailwind CSS) [Live](https://hernotix-tech-landing.vercel.app) | [GitHub](https://github.com/fhermas22/hernotix-tech-landing)
+- **EduTrack** - SPA interface for learner tracking (Laravel 12 | Blade | TailwindCSS | JS) [GitHub](https://github.com/fhermas22/edutrack)
+- **LearnyClass** - Frontend for online learning platform (Laravel 12 | Blade | TailwindCSS | JS) [GitHub](https://github.com/fhermas22/learny-class)
 - **Library-API** - Digital library REST API (Laravel | MySQL)
 - **CandForm** - Job application form (Laravel | TailwindCSS | MySQL)
 - **AutoSocial** - Mini social network POC w/ AI (Laravel | TailwindCSS | MySQL | AI)
@@ -140,17 +140,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🎓 Certifications & Achievements
 
-- AWS Cloud Club Captain (2025)
-- AWS Cloud Club Core Team (2025)
-- Professional Training in Computer Programming (2024-Present)
-- University Degree in Software & IT Systems (2021-2023)
+- **AWS Cloud Club Captain: Bronze Level** (April 2026) [Badge](https://www.credly.com/badges/3848f707-2e33-4821-8c33-b283d2e8e0d9/public_url)
+- **AWS Cloud Club Core Team** (December 2025) [Badge](https://www.credly.com/badges/4e75f1c7-c6c8-4edf-9d1b-8d7c88d9a6b6/public_url)
+- **AWS Cloud Club Captain** (November 2025) [Badge](https://www.credly.com/badges/63b84768-e35a-47a6-ac8d-d6028ebf1c28/public_url)
+- **Professional Training in Computer Programming** (2024-Present)
+- **University Degree in Software & IT Systems** (2021-2023)
 
 ## 📊 Statistics (from site)
 
 - **+3** Years of Experience
 - **+17** Successful Projects
-- **6** Programming Languages (Dart, HTML/CSS/JS, PHP, MySQL)
+- **6** Programming Languages (Dart, HTML/CSS/JS, PHP)
 - **4** Main Frameworks (Flutter, Laravel, TailwindCSS, React)
+- **2** Databases (MySQL, MongoDB)
 
 ## 🙏 Acknowledgments
 
@@ -164,6 +166,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Last Updated**: April 13, 2026
+**Last Updated**: April 21, 2026
 
 Made with ❤️ by Hermas Francisco | [HERNOTIX Tech](https://hernotix-tech-landing.vercel.app)
