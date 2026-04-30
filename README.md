@@ -1,10 +1,10 @@
 # Hermas Francisco - Portfolio
 
-A modern, responsive personal portfolio website (in French) showcasing my skills, experiences, services, and 17+ projects as a computer programmer based in Benin, specializing in Mobile Development with Flutter and Full-Stack Web Development with Laravel, React & TailwindCSS.
+A modern, responsive personal portfolio website (in French) showcasing my skills, experiences, services, and 17+ projects as a Mobile & Web Developer based in Benin, specializing in Mobile Development with Flutter and Full-Stack Web Development with Laravel, React & TailwindCSS.
 
 ## 🎯 About Me
 
-I'm Hermas Francisco, a **computer programmer** based in **Benin** with **+3 years of experience**. I specialize in:
+I'm Hermas Francisco, a **Mobile & Web Developer** based in **Benin** with **+3 years of experience**. I specialize in:
 - **Mobile Development**: Flutter (Android & iOS)
 - **Web Development**: Laravel (Backend), React & TailwindCSS (Frontend), MySQL
 - **Technologies**: REST APIs, Firebase, Laravel Reverb (real-time), MongoDB
@@ -26,11 +26,14 @@ Currently in **advanced programming training** at **Institut des Métiers du Num
 
 ## 🚀 Tech Stack
 
-- **Frontend**: HTML5, CSS3, JavaScript
-- **Frameworks**: Swiper.js, ScrollReveal.js
+- **Mobile**: Flutter (Dart)
+- **Frontend**: HTML5, CSS3, JavaScript, React JS, TailwindCSS
+- **Backend**: Laravel, PHP
+- **Frameworks**: Swiper.js, ScrollReveal.js, Laravel Reverb
 - **Design**: CSS, Font Awesome 6.7.2
 - **Fonts**: Poppins (Google Fonts)
-- **Backend Technologies**: Laravel, MongoDB, Laravel Reverb (for real-time features)
+- **Databases**: MySQL, MongoDB
+- **Other**: REST APIs, Firebase
 
 ## 📁 Project Structure
 
@@ -71,10 +74,10 @@ Currently in **advanced programming training** at **Institut des Métiers du Num
 
 1. **Home** - Hero section with introduction and typing animation
 2. **About** - Personal information and professional stats
-3. **Skills** - Languages, frameworks, and experience
+3. **Skills** - Languages, frameworks, databases, certifications, and experience
 4. **Services** - Professional services offered
 5. **Why Me** - Key strengths and value proposition
-6. **Portfolio** - Showcased projects with detailed descriptions
+6. **Portfolio** - Showcased projects with detailed descriptions (17 projects)
 7. **Contact** - Contact information and message form
 
 ## 🔗 Featured Projects (top from portfolio section)
@@ -146,12 +149,26 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Professional Training in Computer Programming** (2024-Present)
 - **University Degree in Software & IT Systems** (2021-2023)
 
+## 💼 Experience
+
+- **Flutter Mobile Developer** (2025 - Present) | Freelance
+  - Development of mobile applications with Flutter through personal projects and freelance missions, focusing on performance, UI/UX and REST API integration.
+  
+- **Web Developer** (2024 - Present) | Freelance
+  - Development of web applications through personal projects and freelance missions, using React & TailwindCSS for frontend and Laravel for backend.
+
+- **AWS Student Builder Group Leader** (2025 - Present) | AWS Community at IMeN
+  - Leadership and organization of AWS club activities within the community. Animation of workshops and training sessions on AWS cloud services.
+
+- **Web Developer Intern** (August 2022) | COSIT Benin
+  - One-month enterprise internship focused on web development. Team implementation of a website project using PHP, HTML, CSS and Bootstrap.
+
 ## 📊 Statistics (from site)
 
 - **+3** Years of Experience
 - **+17** Successful Projects
-- **6** Programming Languages (Dart, HTML/CSS/JS, PHP)
-- **4** Main Frameworks (Flutter, Laravel, TailwindCSS, React)
+- **5** Programming Languages (Dart, HTML, CSS, JavaScript, PHP)
+- **4** Main Frameworks (Flutter, Laravel, TailwindCSS, React JS)
 - **2** Databases (MySQL, MongoDB)
 
 ## 🙏 Acknowledgments
@@ -166,6 +183,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Last Updated**: April 21, 2026
+**Last Updated**: April 30, 2026
 
 Made with ❤️ by Hermas Francisco | [HERNOTIX Tech](https://hernotix-tech-landing.vercel.app)
